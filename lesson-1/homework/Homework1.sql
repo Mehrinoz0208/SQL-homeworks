@@ -31,45 +31,45 @@ SQL: A language used to manage and query data in databases.
 
 SQL Server: A database management system (DBMS) that stores and processes data using SQL.
 
-SSMS (SQL Server Management Studio): A software tool used to connect to and manage SQL Server visually — to write SQL queries, create databases, and manage users.
+SSMS (SQL Server Management Studio): A software tool used to connect to and manage SQL Server visually â€” to write SQL queries, create databases, and manage users.
 
 
 --3-task
-3. 1. DDL – Data Definition Language
+3. 1. DDL â€“ Data Definition Language
 Used to define or modify the structure of database objects (tables, schemas, etc.).
 Examples:
-CREATE – creates a new table or database
-ALTER – modifies an existing table structure
-DROP – deletes a table or database
-TRUNCATE – deletes all rows from a table (but keeps the structure)
+CREATE â€“ creates a new table or database
+ALTER â€“ modifies an existing table structure
+DROP â€“ deletes a table or database
+TRUNCATE â€“ deletes all rows from a table (but keeps the structure)
 
 
- 2. DML – Data Manipulation Language
+ 2. DML â€“ Data Manipulation Language
 Used to manipulate data stored in tables.
 Examples:
-INSERT – adds new data
-UPDATE – modifies existing data
-DELETE – removes data
+INSERT â€“ adds new data
+UPDATE â€“ modifies existing data
+DELETE â€“ removes data
 
 
- 3. DCL – Data Control Language
+ 3. DCL â€“ Data Control Language
 Used to control access to the database.
 Examples:
-GRANT – gives permissions to users
-REVOKE – removes permissions
+GRANT â€“ gives permissions to users
+REVOKE â€“ removes permissions
 
 
- 4. DQL – Data Query Language
+ 4. DQL â€“ Data Query Language
 Used to retrieve data from the database.
 Example:
-SELECT – fetches data from tables.
+SELECT â€“ fetches data from tables.
 
- 5. TCL – Transaction Control Language
+ 5. TCL â€“ Transaction Control Language
 Used to manage transactions in SQL (groups of DML statements)
 Examples:
-COMMIT – saves changes
-ROLLBACK – cancels change
-SAVEPOINT – sets a point to roll back to
+COMMIT â€“ saves changes
+ROLLBACK â€“ cancels change
+SAVEPOINT â€“ sets a point to roll back to
 
 
 Create  database Students
